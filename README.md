@@ -12,7 +12,8 @@ IRIC, or *Item Response Theory based Information Criterion Causal Network Struct
 - **Structure Search Algorithm**: An evolutionary concept-based algorithm combined with a new scoring function enhances both efficiency and accuracy.
 - **Proven Effectiveness**: Demonstrated exceptional performance on public and real-world datasets.
 
-![IRIC Method Overview](\README_figure\1.PNG")
+![IRIC Method Overview](images/overview.png)
+![IRIC Method Overview](README_figure/foundational struture.PNG)
 *Figure: Overview of the IRIC Method*
 
 ![IRIC Method Overview]("Y:\博士文件\研究目标18--追因溯源\KDD_IRIC\1.PNG")

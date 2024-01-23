@@ -39,7 +39,7 @@ IRIC, or *Item Response Theory based Information Criterion Causal Network Struct
       <img src="README_figure/Performance_Comparison.PNG" width="300"/>
     </td>
     <td>
-      *Table 1: Performance Comparison*
+      Table 1: Performance Comparison
     </td>
   </tr>
 </table>
@@ -57,10 +57,10 @@ IRIC, or *Item Response Theory based Information Criterion Causal Network Struct
   </tr>
   <tr>
     <td>
-      *Table 2: F1-Scores*
+      Table 2: F1-Scores
     </td>
     <td>
-      *Figure 3: Convergence Analysis of the CEO-SS Algorithm.*
+      Figure 3: Convergence Analysis of the CEO-SS Algorithm.
     </td>
   </tr>
 </table>

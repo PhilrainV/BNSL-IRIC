@@ -6,7 +6,7 @@ import random
 from tqdm import tqdm
 import math
 import time
-from HCS_IRIC_mian import *
+from HCS_IRIC_main import *
 
 class pop_obj:
     max_iter = 10

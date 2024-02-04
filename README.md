@@ -65,3 +65,15 @@ IRIC, or *Item Response Theory based Information Criterion Causal Network Struct
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="README_figure/Convergence_Analysis1.PNG" width="600"/>
+    </td>//
+    <td>
+      Figure 4: Convergence Analysis of the CEO-SS Algorithm.
+    </td>
+  </tr>
+</table>
+
+

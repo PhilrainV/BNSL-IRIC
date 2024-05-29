@@ -17,7 +17,7 @@ IRIC, or *Item Response Theory based Information Criterion Causal Network Struct
 <table>
   <tr>
     <td>
-      <img src="README_figure/foundational_struture.PNG" width="500"/>
+      <img src="README_figure/simple_structure.PNG" width="500"/>
     </td>
     <td>
       <img src="README_figure/complex_structure.PNG" width="500"/>

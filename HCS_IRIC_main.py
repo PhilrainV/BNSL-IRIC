@@ -12,7 +12,6 @@ import torch
 from scipy.sparse import csr_matrix
 import ast
 
-
 def calculate_mutual_information(matrix1, matrix2):
     from ast import literal_eval
     matrix1 = [literal_eval(elem) for elem in matrix1]
